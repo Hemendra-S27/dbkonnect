@@ -1,0 +1,33 @@
+.post.custom-post {
+    margin-bottom: 20px;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    line-height: 1.5;
+    max-width: 800px; /* Adjust this to control the maximum width of each post */
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.post.custom-post h2.post-title {
+    margin-bottom: 5px;
+    font-size: 20px;
+}
+
+.post.custom-post .post-meta {
+    margin-bottom: 10px;
+    font-size: 12px;
+    color: #888;
+}
+
+.post.custom-post .post-meta span {
+    margin-right: 10px;
+}
+
+.post.custom-post .post-thumbnail {
+    margin-bottom: 10px;
+}
+
+.post.custom-post .post-excerpt {
+    font-size: 14px;
+}

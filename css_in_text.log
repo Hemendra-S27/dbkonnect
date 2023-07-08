@@ -1,0 +1,19 @@
+#----
+global-link-hover = #377788
+
+#----
+header-bg = #232F3E
+header-text-link = #DDDDDD
+
+#----
+prim-nav-bg = #F2F4F4
+prim-nav-text = #232F3E
+
+#----
+sec-nav-bg = #232F3E
+sec-nav-text = #DDDDDD
+
+#----
+footer-widget-bg = #232F3E
+footer-widget-text-link = #FFFFFF
+footer-widget-title = #FFFFFF

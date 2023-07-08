@@ -7,6 +7,7 @@
     max-width: 800px; /* Adjust this to control the maximum width of each post */
     margin-left: auto;
     margin-right: auto;
+    text-align: justify; /* Add this to make the text fill the entire width of the container */
 }
 
 .post.custom-post h2.post-title {
